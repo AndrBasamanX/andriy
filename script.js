@@ -26,3 +26,4 @@ function handleMenuClick(buttonName) {
         statusBox.innerText = `Ви натиснули кнопку: ${buttonName}`;
     }
 }
+import react from 'react'; 
